@@ -1,2 +1,2 @@
 # sample
-just a sample repository
+branch 1 sample
